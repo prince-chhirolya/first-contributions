@@ -1,4 +1,4 @@
-# First Contributions
+# First Contributions < / >
 
 [![Forks](https://img.shields.io/github/forks/Chhirolya/first-contributions?style=social)](https://github.com/Chhirolya/first-contributions/fork)
 [![Stars](https://img.shields.io/github/stars/Chhirolya/first-contributions?style=social)](https://github.com/Chhirolya/first-contributions/stargazers)
@@ -23,7 +23,19 @@ Thanks goes to these wonderful people for their contributions:
 | 0 | Prince Chhirolya | Founder & CEO     | [LinkedIn](https://www.linkedin.com/in/princechhirolya/)                 | [GitHub](https://github.com/prince-chhirolya)                          | `875daa4` | Repo Maintainer |
 | 1 | Shivani Sharma | Software Engineer | [LinkedIn](https://www.linkedin.com/in/shivani-sharma-1834a4263/)                  | [GitHub](https://github.com/shivi-sharma123)                           | `206199a` | 🥇 First Contributor |
 
+<br/>
 ---
+
+## ⚠️ Important Note
+
+Please **do not edit `README.md` directly** when making your contribution.  
+All contributions should be made by following the steps in [CONTRIBUTING.md](./CONTRIBUTING.md) and updating the `ATTENDANCE.md` file only.  
+
+> Any changes to `README.md` will not be accepted in Pull Requests.  
+> This file is maintained by the repository owner for project information and contributor recognition.
+
+---
+
 
 <p align="center">We ❤️ Open-source</p>
 
