@@ -12,12 +12,6 @@ Your first commit here will serve as your attendance mark in the community.
 
 - Follow the instructions in the [CONTRIBUTING.md](https://github.com/Chhirolya/first-contributions/blob/main/CONTRIBUTING.md). (👈 How to Contribute)
 
-## 🎁 Special Reward for First-Time Contributors
-We value every new contributor joining our community!  
-If this is your **first-ever Pull Request on GitHub**, you’ll receive a **special recognition badge** 🎖️ in our community records.  
-
-> 💡 Tip: When you open your PR, mention that it’s your *first contribution* so we can celebrate it properly!
-
 ---
 
 ## Contributors ✨
