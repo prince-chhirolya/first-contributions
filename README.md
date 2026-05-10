@@ -18,10 +18,10 @@ Your first commit here will serve as your attendance mark in the community.
 
 Thanks goes to these wonderful people for their contributions:
 
-| Name             | Profession        | LinkedIn                                                                 | GitHub                                                                 | Commit ID | Special Badge |
-|------------------|------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------|-----------|---------------|
-| Prince Chhirolya | Founder & CEO     | [LinkedIn](https://www.linkedin.com/in/princechhirolya/)                 | [GitHub](https://github.com/prince-chhirolya)                          | `369f1aa` | Repo Maintainer |
-| Shivani Sharma   | Software Engineer | [LinkedIn](https://www.linkedin.com/in/shivani-sharma-1834a4263/)                  | [GitHub](https://github.com/shivi-sharma123)                           | `fe31b61` | 🥇 First Contributor |
+| No. | Name             | Profession        | LinkedIn                                                                 | GitHub                                                                 | Commit ID | Special Badge |
+|-------|------------------|------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------|-----------|---------------|
+| 0 | Prince Chhirolya | Founder & CEO     | [LinkedIn](https://www.linkedin.com/in/princechhirolya/)                 | [GitHub](https://github.com/prince-chhirolya)                          | `875daa4` | Repo Maintainer |
+| 1 | Shivani Sharma | Software Engineer | [LinkedIn](https://www.linkedin.com/in/shivani-sharma-1834a4263/)                  | [GitHub](https://github.com/shivi-sharma123)                           | `206199a` | 🥇 First Contributor |
 
 ---
 
