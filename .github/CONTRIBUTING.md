@@ -67,8 +67,28 @@ Your first commit here will serve as your attendance mark in the community.
    git push
    ```
 
-8. **Open a Pull Request** <br/>
+8. **Open a Pull Request**<br/>
    Go to your fork on GitHub and click the `"Compare and pull request"` button at the top of the GitHub repository page.
+
+9. **Pull Request Message Template** (Copy & Paste this into your PR description 👇)
+
+   ```bash
+   Hello,
+   This PR adds my details to the ATTENDANCE.md file as part of my first contribution.
+
+   Name: <Your Full Name>
+   Email: <Your Email>
+
+   ## Following the contribution rules:
+   - [x] Added only my own details.
+   - [x] Kept the format consistent.
+   - [x] Used a clear commit message.
+
+   Thank you for reviewing! 🎉
+   ```
+
+10. **Wait for your PR to be reviewed and merged** <br/>
+    Once your PR is approved and merged, you will see your name on the attendance list!
 
 ## ✅ Contribution Rules
 
