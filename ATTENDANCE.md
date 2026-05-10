@@ -19,3 +19,5 @@ Please use the following format exactly: <br/>
 ---
 
 1. - **Name:** Prince Chhirolya || **Email:** prince.chhirolya04@gmail.com || **GitHub:** https://github.com/prince-chhirolya || **LinkedIn:** https://www.linkedin.com/in/princechhirolya || **City:** Bangalore || **Country:** India || **Profession:** Founder & CEO
+
+2. - **Name:** Shivani Sharma || **Email:** sharmashivani9899@gmail.com || **GitHub:** https://github.com/shivi-sharma123 || **LinkedIn:** https://www.linkedin.com/in/shivani-sharma-1834a4263/ || **City:** Bangalore || **Country:** India || **Profession:** Software Engineer
