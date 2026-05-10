@@ -5,9 +5,10 @@ This file is where everyone marks their **first GitHub contribution** by adding 
 Your entry here acts as both **attendance** and your **first commit milestone**.
 
 ## 📝 Format
+
 Please use the following format exactly: <br/>
 
-`Name: Your Full Name || Email: your@email.com || City: Your City || Country: Your Country || Profession: Student / Software Engineer / etc.`
+> Name: Your Full Name || Email: your@gmail.com || GitHub: https://github.com/<your-username> || LinkedIn: https://www.linkedin.com/in/<your-username> || City: Your City || Country: Your Country || Profession: Student / Software Engineer / etc.
 
 ---
 
@@ -16,5 +17,3 @@ Please use the following format exactly: <br/>
 👇 Add your entry below this line. Do not edit or remove other contributors’ entries.
 
 ---
-
-

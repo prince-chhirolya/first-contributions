@@ -17,41 +17,61 @@ Your first commit here will serve as your attendance mark in the community.
 2. **Star this repository**  
    Show your support by clicking the "Star" button or using the badge above.
 
-3. **Clone your fork locally**  
+3. **Clone your fork locally**
+
    ```bash
    git clone https://github.com/<your-username>/first-contributions.git
    cd first-contributions
 
+   ```
+
 4. **Create a new branch**
+
    ```bash
    git checkout -b add-your-name
 
-6. Open `ATTENDANCE.md` file
+   ```
+
+5. Open `ATTENDANCE.md` file <br/>
    Add your details at the bottom of the file using the format below:
-   - **Name:** Your Full Name  
-   - **Email:** your@email.com  
-   - **City:** Your City  
-   - **Country:** Your Country  
+   - **Name:** Your Full Name
+   - **Email:** your@gmail.com
+   - **GitHub:** https://github.com/<your-username>
+   - **LinkedIn:** https://www.linkedin.com/in/<your-username\*\*
+   - **City:** Your City
+   - **Country:** Your Country
    - **Profession:** Student / Software Engineer / etc.
-  
+
    Example Entry: <br/>
-   - **Name:** Prince Chhirolya || **Email:** prince.chhirolya04@gmail.com || **City:** Bangalore || **Country:** India || **Profession:** Founder & CEO
+   - **Name:** Prince Chhirolya || **Email:** prince.chhirolya04@gmail.com || **GitHub:** https://github.com/prince-chhirolya || **LinkedIn:** https://www.linkedin.com/in/princechhirolya || **City:** Bangalore || **Country:** India || **Profession:** Founder & CEO
 
+6. **Commit your changes**
 
-7. **Commit your changes**
    ```bash
    git add ATTENDANCE.md
-   git commit -m "add: Prince Chhirolya attendance entry"
+   git commit -m "add: Your Name attendance entry"
+   ```
 
-8. **Push to your fork**
+   Replace `Your Name` with your own name.
+
+7. **Push your branch to your fork** <br/>
+   If this is the first time you’re pushing the branch, set the upstream:
+
    ```bash
-   git push origin add-your-name
+   git push -u origin add-your-name
+   ```
 
-9. **Open a Pull Request**
-    Go to your fork on GitHub and click "Compare & pull request". <br/>
-    Submit the PR to the main repository.
+   After this, you can simply use:
+
+   ```bash
+   git push
+   ```
+
+8. **Open a Pull Request** <br/>
+   Go to your fork on GitHub and click the `"Compare and pull request"` button at the top of the GitHub repository page.
 
 ## ✅ Contribution Rules
+
 - [x] Only add your own details.
 - [x] Do not edit or remove other contributors’ entries.
 - [x] Keep the format consistent (Name, Email, City, Country, Profession).
@@ -59,4 +79,5 @@ Your first commit here will serve as your attendance mark in the community.
 
 ---
 
+<br/>
 <p align="center">We ❤️ Open-source</p>
